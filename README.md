@@ -13,7 +13,7 @@ Install MySQL and PHP.<br>
 
 Start your DBMS (MySQL) service<br>
 Start the Server of the project<br>
-load welocome.php to you browser<br>
+load welcome.php to you browser<br>
 explore project<br>
 
 
